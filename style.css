@@ -40,7 +40,7 @@ body {}
 #calendrier {display: block;border: none;}
 #calendrier caption {font-size: 1.3em;padding: 4px;font-weight: bold;}
 #calendrier caption a {font-weight: bold;text-decoration: none;}
-#calendrier td {text-align: center;width: 50px;line-height: 2em;}
+#calendrier td {text-align: center;width: 60px;line-height: 2em;}
 #calendrier td a {display: block;text-decoration: none;border-width: 1px 0 0 1px;font-weight: bold;}
 #calendrier td a:hover {border-width: 0 1px 1px 0;}
 #calendrier td.active a {}
